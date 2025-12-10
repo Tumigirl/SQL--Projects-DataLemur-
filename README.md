@@ -15,4 +15,6 @@ Write a query to calculate the sum of odd-numbered and even-numbered measurement
 * Window Function (row numbers)
 * CTE
 * Group By
+* 
+#### Screenshots
 ![image alt](https://github.com/Tumigirl/SQL--Projects-DataLemur-/blob/119fe94bb803812d508d6506e0c5e57bdfda33b9/1.Google%20Interview%20Output.png)
