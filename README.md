@@ -11,7 +11,7 @@ Write a query to calculate the sum of odd-numbered and even-numbered measurement
 [https://datalemur.com/questions/odd-even-measurements]
 
 #### Key Concept used
-⋅⋅⋅⋅* Cast
-⋅⋅⋅⋅* Window Function (row numbers)
-⋅⋅⋅⋅* CTE
-⋅⋅⋅⋅* Group By
+* Cast
+* Window Function (row numbers)
+* CTE
+* Group By
