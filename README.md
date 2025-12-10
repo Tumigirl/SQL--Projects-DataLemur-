@@ -7,6 +7,11 @@ This repository contains some sql queries I was able to write from the Datalemur
 
 Write a query to calculate the sum of odd-numbered and even-numbered measurements separately for a particular day and display the results in two different columns. Refer to the Example Output below for the desired format."
 
-### [Query] 
+### Query
 [https://datalemur.com/questions/odd-even-measurements]
 
+#### Key Concept used
+⋅⋅⋅⋅* Cast
+⋅⋅⋅⋅* Window Function (row numbers)
+⋅⋅⋅⋅* CTE
+⋅⋅⋅⋅* Group By
